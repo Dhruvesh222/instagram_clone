@@ -1,6 +1,6 @@
 
 # Instagram_clone
-This is a simple cross platform app which allows users to post, read othere users post and follow others.
+This is a simple cross platform app which allows users to post, read othere users post and follow other users.
 
 
 ## Tech Stack Used
